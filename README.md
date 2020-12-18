@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 
 -->
 
 
-## 🌱 I’m currently learning how to become a full-stack web developer with the help of [Avion School](https://avionschool.com/)
+## I’m currently learning how to become a full-stack web developer at [Avion School](https://avionschool.com/)
 
 
