@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning how to become a full-stack web developer with the help of [Avion School](https://avionschool.com/)
+# 🌱 I’m currently learning how to become a full-stack web developer with the help of [Avion School](https://avionschool.com/)
 
 
